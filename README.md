@@ -13,3 +13,35 @@ Simulation app about quicksort designed with santa claus theme built using Unity
   * Select preferred camera view from front, top, or in-truck camera
 * Dialog
   * Show santa’s dialog at bottom of the screen
+
+## Demo
+
+<br>
+<p align="center">
+  <img src="docs/1.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/2.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/3.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/4.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/5.png">
+</p>
+<br>
