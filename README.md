@@ -45,3 +45,9 @@ Simulation app about quicksort designed with santa claus theme built using Unity
   <img src="docs/5.png">
 </p>
 <br>
+
+## Contributors
+* Benny Richardson
+* Kevin Hendy
+* Ventryshia Andiyani
+* Wilson Philips
